@@ -1,0 +1,18 @@
+{
+  "name": "cn-address-convert",
+  "version": "1.0.0",
+  "description": "A program for convert the china address data of vux to a tree structure.",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vux",
+    "element-ui"
+  ],
+  "author": "jakexchan",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
+}
